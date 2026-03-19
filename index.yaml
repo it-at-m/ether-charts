@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  etherpad:
+  - apiVersion: v2
+    appVersion: "2.3"
+    created: "2026-03-19T17:05:10.558800596Z"
+    description: A Helm chart for Kubernetes
+    digest: e6a2bec5cb1043e69aad53aede1e27598da8013d01f7a55ffeb7b807683e6d40
+    name: etherpad
+    type: application
+    urls:
+    - https://github.com/it-at-m/ether-charts/releases/download/etherpad-0.1.0/etherpad-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-19T17:05:10.558807219Z"
