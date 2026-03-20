@@ -8,5 +8,5 @@ To install the chart use the following:
 
 ```
 helm repo add etherpad https://it-at-m.github.io/ether-charts
-helm upgrade --install etherpad it-at-m/ether-charts
+helm upgrade --install etherpad etherpad/etherpad
 ```
