@@ -7,6 +7,6 @@ A [Helm](https://helm.sh) chart to install [Etherpad ](https://etherpad.org/) on
 To install the chart use the following:
 
 ```
-helm repo add etherpad https://it-at-m.github.io/ether-charts
+helm repo add etherpad https://ether.github.io/ether-charts
 helm upgrade --install etherpad etherpad/etherpad
 ```
